@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2f2f15-13b8-49d1-834a-bdd5ae388776" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/queries/chart-1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/chart-2.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/4a.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/4b.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/5a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/5a.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/5b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/5b.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/6a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/6a.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/5b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/5b.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/db.test.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/tests/db.test.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "day-2-exercises",
+    "git-widget-placeholder": "day-2-workshop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/simon/Development/amex25/topsify-Simontinari/cli",
     "node.js.detected.package.eslint": "true",
@@ -56,6 +51,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/queries" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
