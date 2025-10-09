@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2f2f15-13b8-49d1-834a-bdd5ae388776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/queries/playlist_tracks.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queries/playlists.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/insertPlaylists.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/insert_playlistTracks.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/playlists.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/playlists.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Zzebb"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:corndel-swe/topsify-Simontinari.git",
+    "accountId": "43d4cd35-1e57-4d95-967b-33919dba5262"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -38,7 +56,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "day-3-exercises",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/simon/Development/amex25/topsify-Simontinari/cli",
+    "last_opened_file_path": "/home/arthur/Desktop/corndel25/topsify-Simontinari",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
