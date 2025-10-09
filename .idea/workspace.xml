@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2f2f15-13b8-49d1-834a-bdd5ae388776" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/7a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/7a.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/7b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/7b.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queries/chart-1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/chart-1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/8a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/8a.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/8b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/8b.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/9a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/9a.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/9b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/9b.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/db.test.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/tests/db.test.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "day-2-workshop",
+    "git-widget-placeholder": "day-3-exercises",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/simon/Development/amex25/topsify-Simontinari/cli",
     "node.js.detected.package.eslint": "true",
