@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2f2f15-13b8-49d1-834a-bdd5ae388776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/queries/chart-1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queries/chart-2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/7a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/7a.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/7b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/7b.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/chart-1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/queries/chart-1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/db.test.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/tests/db.test.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +51,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
