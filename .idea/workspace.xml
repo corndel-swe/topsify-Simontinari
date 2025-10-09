@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2f2f15-13b8-49d1-834a-bdd5ae388776" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/8a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/8a.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/8b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/8b.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/9a.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/9a.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/9b.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/9b.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/db.test.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/tests/db.test.sqlite" afterDir="false" />
     </list>
